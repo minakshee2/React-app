@@ -1,0 +1,19 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* space between buttons */
+  align-items: center;
+}
+
+.button {
+  background-color: blue;
+  width: 100px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+}
